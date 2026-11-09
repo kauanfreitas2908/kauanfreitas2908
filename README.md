@@ -1,16 +1,14 @@
-## Hi there 👋
+# Me chamo Kauan
 
-<!--
-**kauanfreitas2908/kauanfreitas2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cursando:
 
-Here are some ideas to get you started:
+- Instituição de ensino: UNIP
+- Curso: Sistema de informação
+- Nível da graduação: Bacharelado (4 anos)
+- Período atual: 2 semestre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas e estudo interesse:
+
+- Martech
+- Data Science
+- Systems Analysis
